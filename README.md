@@ -37,4 +37,8 @@ React · Advanced Laravel · .NET architecture & patterns
 
 ---
 
+### 📬 How to reach me
+- Email: manel.jimenez97@gmail.com
+- LinkedIn: https://www.linkedin.com/in/manueljimenezdominguez
+
 If you'd like to explore my work, feel free to browse my repositories — I'm always building something new.
