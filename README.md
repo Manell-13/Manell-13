@@ -3,43 +3,37 @@
 I'm **Manuel**, a Web & Software Developer based in Spain.
 
 I enjoy building clean, scalable and reliable solutions — from full-stack web apps to custom e-commerce integrations.  
-My day-to-day work revolves around **PHP**, **JavaScript**, **C# (.NET)** and **SQL**, always aiming for maintainable and well-structured code.
+I work mainly with **PHP**, **JavaScript**, **C# (.NET)** and **SQL**, always focusing on maintainable and well-structured code.
 
 ---
 
 ### 🛠️ Tech Stack
 
-**Core Languages**  
+**Languages**  
 PHP · JavaScript · C# (.NET) · SQL/MySQL · HTML5 · CSS3
 
 **Frameworks & Platforms**  
 Laravel · Symfony · Next.js · WordPress · REST APIs · GraphQL
 
-**E-commerce Platforms**  
+**E-commerce**  
 PrestaShop (modules, APIs, multistore)  
-Shopify (Admin API, GraphQL, webhooks, private/public apps)  
-WooCommerce (custom plugins, hooks & API integrations)
+Shopify (Admin API, GraphQL, webhooks, automations)  
+WooCommerce (custom plugins & API integrations)
 
-**Tools & Workflow**  
+**Tools**  
 Docker · Git/GitHub · Postman · VS Code / Rider · Linux basics
 
 ---
 
-### 📚 Background
-Higher National Diploma in **Web Application Development (DAW)**.  
-Professional experience building custom modules, APIs, integrations and full websites across PrestaShop, Shopify, WordPress and Laravel ecosystems.
+### 🚀 Experience & Projects
+- Building advanced **e-commerce integrations** for syncing products, stock, prices and orders across multistore environments.  
+- Developing backend services in **.NET** for Shopify apps: data sync, catalog management, webhook processing and automation pipelines.  
+- Creator of a **job aggregator platform** (Laravel + Docker) with unified provider APIs.
 
----
-
-### 🚀 Current Projects
-- Development of advanced **e-commerce integrations**, including product, stock, price and order synchronization across PrestaShop multistore setups.
-- Backend development in **.NET** for Shopify apps, implementing similar workflows: data sync, catalog and inventory management, webhook processing and automation pipelines.
-- A personal project: **job aggregator platform** (Laravel + Docker) integrating multiple external providers through unified APIs.
-  
 ---
 
 ### 📖 Currently Learning
-React · Advanced Laravel · .NET patterns
+React · Advanced Laravel · .NET architecture & patterns
 
 ---
 
