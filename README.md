@@ -33,7 +33,7 @@ Docker · Git/GitHub · Postman · VS Code / Rider · Linux basics
 ---
 
 ### 📖 Currently Learning
-React · Advanced Laravel · .NET architecture & patterns
+React ·  Laravel · .NET architecture & patterns
 
 ---
 
